@@ -1,4 +1,5 @@
 https://ethereal.email/create
+https://mail.tm/en/
 python notification_server.py
 python email_client.py
 python email_client_Tkinter.py
